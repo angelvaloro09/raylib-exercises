@@ -1,0 +1,25 @@
+# Binarios compilados
+*.exe
+*.out
+*.app
+*.o
+*.obj
+*.pdb
+*.ilk
+*.dSYM/
+
+# Directorios de compilacion
+build/
+bin/
+dist/
+
+# Archivos de sistema operativo
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Archivos temporales y de depuracion
+*.log
+*.tmp
+.cache/
+compile_commands.json
